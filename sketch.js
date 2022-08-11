@@ -14,6 +14,8 @@ var jumpSound, collidedSound;
 var gameOver, restart;
 
 
+
+
 function preload(){
   jumpSound = loadSound("jump.wav")
   collidedSound = loadSound("collided.wav")
